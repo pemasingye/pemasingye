@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @pemasingye
 - 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently learning Data science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working as Data Science Mentee at the SharpestMinds.
+- 💞️ I’m looking to collaborate on ML and Datascience related projects
+- 📫 How to reach me 4378725175 or pemaisngs@gmail.com
 
 <!---
 pemasingye/pemasingye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
