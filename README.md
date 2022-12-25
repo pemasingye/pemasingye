@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pemasingye
-- 👀 I’m interested in Data Science and ML
-- 🌱 I’m currently working as Data Science Mentee at the SharpestMinds.
-- 💞️ I’m looking to collaborate on ML and Datascience related projects
+- 👀 I’m passionate in Data Science & ML 
+- 🌱 I’m currently working as Insurance Advisor at TD 
+- 💞️ I’m looking for data related roles 
 - 📫 How to reach me 4378725175 or pemaisngs@gmail.com
 
 <!---
